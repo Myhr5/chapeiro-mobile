@@ -4,7 +4,7 @@ import icons from "../../constants/icons.js"
 
 function Header(props) {
     return <View style={styles.header}>
-        <Image style={styles.logo} source={icons.logo} />
+        <Image style={styles.logo} source={icons.logoLong} />
         <Text style={styles.title}>{props.text}</Text>
     </View>
 }

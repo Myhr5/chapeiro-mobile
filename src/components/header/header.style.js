@@ -6,8 +6,8 @@ export const styles = {
         alignItems: "center"
     },
     logo: {
-        width: 170,
-        height: 50
+        width: 149,
+        height: 78,
     },
     title: {
         color: colors.dark_gray,
