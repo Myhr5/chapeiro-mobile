@@ -4,6 +4,7 @@ export const styles = {
       btn: {
             width: "100%",
             backgroundColor: colors.yellow,
+            borderRadius: 6
       },
       text: {
             fontSize: font_size.md,
