@@ -3,7 +3,7 @@ import {colors} from "../../constants/theme"
 export const styles = {
       container: {
             flex: 1,
-            backgroundColor: colors.white,
+            backgroundColor: colors.background,
             padding: 12
       },
       headerBar: {
